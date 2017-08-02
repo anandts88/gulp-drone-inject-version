@@ -1,0 +1,1 @@
+# gulp-drone-inject-version
